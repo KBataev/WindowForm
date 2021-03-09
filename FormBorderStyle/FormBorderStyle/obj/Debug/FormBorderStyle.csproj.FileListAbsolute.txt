@@ -1,0 +1,10 @@
+D:\AAУчеба\ООП\FormBorderStyle\FormBorderStyle\bin\Debug\FormBorderStyle.exe.config
+D:\AAУчеба\ООП\FormBorderStyle\FormBorderStyle\bin\Debug\FormBorderStyle.exe
+D:\AAУчеба\ООП\FormBorderStyle\FormBorderStyle\bin\Debug\FormBorderStyle.pdb
+D:\AAУчеба\ООП\FormBorderStyle\FormBorderStyle\obj\Debug\FormBorderStyle.csprojAssemblyReference.cache
+D:\AAУчеба\ООП\FormBorderStyle\FormBorderStyle\obj\Debug\FormBorderStyle.Form1.resources
+D:\AAУчеба\ООП\FormBorderStyle\FormBorderStyle\obj\Debug\FormBorderStyle.Properties.Resources.resources
+D:\AAУчеба\ООП\FormBorderStyle\FormBorderStyle\obj\Debug\FormBorderStyle.csproj.GenerateResource.cache
+D:\AAУчеба\ООП\FormBorderStyle\FormBorderStyle\obj\Debug\FormBorderStyle.csproj.CoreCompileInputs.cache
+D:\AAУчеба\ООП\FormBorderStyle\FormBorderStyle\obj\Debug\FormBorderStyle.exe
+D:\AAУчеба\ООП\FormBorderStyle\FormBorderStyle\obj\Debug\FormBorderStyle.pdb
