@@ -1,0 +1,10 @@
+D:\AAУчеба\ООП\windowForm\WinContainer\WinContainer\bin\Debug\WinContainer.exe.config
+D:\AAУчеба\ООП\windowForm\WinContainer\WinContainer\bin\Debug\WinContainer.exe
+D:\AAУчеба\ООП\windowForm\WinContainer\WinContainer\bin\Debug\WinContainer.pdb
+D:\AAУчеба\ООП\windowForm\WinContainer\WinContainer\obj\Debug\WinContainer.csprojAssemblyReference.cache
+D:\AAУчеба\ООП\windowForm\WinContainer\WinContainer\obj\Debug\WinContainer.Form1.resources
+D:\AAУчеба\ООП\windowForm\WinContainer\WinContainer\obj\Debug\WinContainer.Properties.Resources.resources
+D:\AAУчеба\ООП\windowForm\WinContainer\WinContainer\obj\Debug\WinContainer.csproj.GenerateResource.cache
+D:\AAУчеба\ООП\windowForm\WinContainer\WinContainer\obj\Debug\WinContainer.csproj.CoreCompileInputs.cache
+D:\AAУчеба\ООП\windowForm\WinContainer\WinContainer\obj\Debug\WinContainer.exe
+D:\AAУчеба\ООП\windowForm\WinContainer\WinContainer\obj\Debug\WinContainer.pdb
